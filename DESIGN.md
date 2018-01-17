@@ -14,6 +14,8 @@
 [3](http://bbs.elecfans.com/jishu_919726_1_1.html)
 
 *[4](https://www.sparkfun.com/datasheets/Sensors/Pressure/fsrguide.pdf)
+
+*[5](https://segmentfault.com/a/1190000008018300)
 ### 测量水的电容量
 原理类似液位传感器
 
